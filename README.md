@@ -9,6 +9,7 @@ This repository contains an Arduino sketch for a Single Output Button Matrix. It
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Installation
@@ -49,6 +50,11 @@ In the sketch, you can configure the following parameters:
 - `int buttonNum[numRows][numCols]`: Matrix containing button numbers.
 - `int buttonVal[numRows][numCols]`: Matrix containing analog values corresponding to each button.
 
+
+## Screenshots
+![Proteus Demo](DemoSS.png)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -58,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Author:** Enkhbold Ganbold  
 **Date:** October 13, 2023
 
-# Single Output Button Matrix
+
